@@ -65,4 +65,6 @@ dependencies {
     implementation(libs.mlkit.barcode.scanning)
 
     debugImplementation(libs.androidx.compose.ui.tooling)
+
+    implementation(libs.mlkit.genai.prompt)
 }
